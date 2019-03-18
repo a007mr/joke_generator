@@ -4,10 +4,10 @@ Joke Generator - app for generating Chuck Norris jokes using vanilla JavaScript
 
 Features:
 
-Fetch jokes using API (icndb.com) 
-XMLHttpRequest
-Allow to choose number of jokes
-Built on vanilla JavaSript
+- Fetch jokes using API (icndb.com) 
+- XMLHttpRequest
+- Allow to choose number of jokes
+- Built on vanilla JavaSript
 
 #Live Demo
 Click the below link
