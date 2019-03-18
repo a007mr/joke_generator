@@ -9,7 +9,7 @@ Features:
 - Allow to choose number of jokes
 - Built on vanilla JavaSript
 
-#Live Demo
+# Live Demo
 Click the below link
 
 https://a007mr.github.io/apps/joke_generator
